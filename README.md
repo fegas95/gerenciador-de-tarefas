@@ -18,7 +18,7 @@ Aplicação de linha de comando para gerenciar tarefas do dia a dia, com persist
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/gerenciador-de-tarefas.git
+git clone https://github.com/fegas95/gerenciador-de-tarefas.git
 cd gerenciador-de-tarefas
 
 # Execute o programa
